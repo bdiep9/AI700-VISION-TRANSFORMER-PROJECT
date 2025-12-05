@@ -173,13 +173,13 @@ Develop web-based diagnostic tool for clinician use.
 
 👩‍💻 Authors
 
-Rashmi Thimmaraju -->ViT model implementation, training & evaluation
+Rashmi Thimmaraju -->
 
-Binh Diep -->Report & presentation preparation
+Binh Diep -->
 
-Kartavya Mandora --->Data preprocessing & augmentation
+Kartavya Mandora --->
 
-Kirtan Patel -----> Model comparison & documentation
+Kirtan Patel ----->
 
 🪪 License
 
